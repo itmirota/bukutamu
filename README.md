@@ -1,3 +1,5 @@
-SISTEM ASET MIROTA KSM
+###################
+BUKU TAMU MIROTA KSM
+###################
 
-V.01.0 - 19 03 2024
+aplikasi ini digunakan untuk mencatat data tamu yang berkunjung di PT Mirota KSM. aplikasi ini dibangun menggunakan framework *codeigniter*
